@@ -4,3 +4,4 @@ A way to bypass the anti-adblock on youtube using ublock origin! No extra extens
 ### Warning: This is a work in progress and stuff may break. This has only been thoroughly tested in firefox and barely checked in chrome derivatives. Changes may be made in the future so I'd suggest bookmarking or starring this project.
 
 # How to install
+Step 1: Install Ublock Origin from your browser's extension store. E.G the chrome https://text.net store, firefox store etc...
