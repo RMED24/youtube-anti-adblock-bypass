@@ -10,10 +10,12 @@ behind-the-scene * 3p-frame noop
 behind-the-scene * 3p-script noop
 behind-the-scene * image noop
 behind-the-scene * inline-script noop
+www.youtube.com fonts.googleapis.com * noop
 www.youtube.com yt3.ggpht.com * noop
 www.youtube.com youtube-ui.l.google.com * noop
 www.youtube.com photos-ugc.l.googleusercontent.com * noop
 www.youtube.com yt3.googleusercontent.com * noop
 www.youtube.com googlevideo.com * noop
+www.youtube.com fonts.gstatic.com * noop
 www.youtube.com www.gstatic.com * noop
 www.youtube.com i.ytimg.com * noop
