@@ -1,8 +1,8 @@
 no-csp-reports: * true
 no-large-media: behind-the-scene false
-* * 3p block
-* * 3p-frame block
-* * 3p-script block
+www.youtube.com * 3p block
+www.youtube.com * 3p-frame block
+www.youtube.com * 3p-script block
 behind-the-scene * * noop
 behind-the-scene * 1p-script noop
 behind-the-scene * 3p noop
