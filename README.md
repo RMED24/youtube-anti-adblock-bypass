@@ -10,3 +10,8 @@ A way to bypass the anti-adblock on youtube using ublock origin! No extra extens
 - Step 2 : Click on the Ublock icon, then click on settings 
 
 ![Capture d'écran 2023-10-25 205522](https://github.com/GabCoolDude/youtube-anti-adblock-bypass/assets/123309403/aa8c2002-a9cf-4a1f-b3f3-a7b09526c662)
+
+- Step 3 : From the settings page click on "My filters"
+
+![Capture d'écran 2023-10-25 210458](https://github.com/GabCoolDude/youtube-anti-adblock-bypass/assets/123309403/71d93dd0-b22e-402b-8c48-0e4807295b37)
+
