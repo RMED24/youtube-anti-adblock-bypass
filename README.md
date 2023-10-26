@@ -15,7 +15,7 @@ A way to bypass the anti-adblock on youtube using ublock origin! No extra extens
 
 ![Capture d'écran 2023-10-25 211853](https://github.com/GabCoolDude/youtube-anti-adblock-bypass/assets/123309403/46617adf-d4f8-495b-b5fa-66fb54917d3f)
 
-- Step 4 : Copy the contents from `rules.txt` in the "Temporary rules" textbox, then click on "Save" and then on "Commit"
+- Step 4 : Copy the contents from [rules.txt](https://raw.githubusercontent.com/RMED24/youtube-anti-adblock-bypass/main/rules.txt) in the "Temporary rules" textbox, then click on "Save" and then on "Commit"
 
 ![Capture d'écran 2023-10-25 212421](https://github.com/GabCoolDude/youtube-anti-adblock-bypass/assets/123309403/ab0e88b7-83d0-43dd-9dd6-2be577774ade)
 
